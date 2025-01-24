@@ -1,5 +1,5 @@
 # QuickNotes
-Python ile geliştirilmiş bir açık kaynaklı not alma uygulaması.
+Python ile geliştirilmiş bir açık kaynaklı basit not alma uygulaması.
 
 Güncellendi.
-Yeni özellikler getirdim.
+Yeni özellikler getirildi.
